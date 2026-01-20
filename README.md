@@ -24,4 +24,4 @@ O resultado final pode ser averiguado no link do projeto abaixo
  [Casos de Testes](https://github.com/julissy/TesteTecnico_CriacaoCasodeTeste/blob/main/PlanoDeTeste_LacreiSaude.xlsx)
 
 
-Caso tenha algum feedback fique à vontade para enviar e-mail para jutocachelo@gmail.com ou entrar em contato via [Linkedin](https://www.linkedin.com/in/julissytocachelo/) 
+Caso tenha algum feedback fique à vontade para enviar e-mail para llorranyamorim@gmail.com ou entrar em contato via [Linkedin](https://www.linkedin.com/in/llorranyamorim/) 
