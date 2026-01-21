@@ -1,10 +1,10 @@
 ### **Objetivo do desafio:**
 
-Avaliar minha habilidade de escrita, pensamento crítico e analítico, criatividade, observação, organização e gestão de tempo. 
+Colocar em prática o meus estudos e avaliar minha habilidade de escrita, pensamento crítico e analítico, criatividade, observação, organização e gestão de tempo. 
 
 ### Tarefas:
 
-1. Criar casos de testes para o épico: Fluxo de cadastro (das telas: **“QAZANDO SHOP”** e **“Cadastro de usuário”** )
+1. Criar casos de testes para o Fluxo de cadastro (das telas: **“QAZANDO SHOP”** e **“Cadastro de usuário”** )
 2. Documentar os casos de testes do fluxo de cadastro
 3. Cobrir todos os caminhos de testes possíveis.
 
@@ -21,7 +21,7 @@ E finalmente a criação de cada Caso de Teste utilizando a linguagem Gherkin po
 
 ### Resultado do Desafio:
 O resultado final pode ser averiguado no link do projeto abaixo
- [Casos de Testes](https://github.com/julissy/TesteTecnico_CriacaoCasodeTeste/blob/main/PlanoDeTeste_LacreiSaude.xlsx)
+ [Casos de Testes](https://github.com/llorranyamorim/CasosdeTeste_TesteTecnico/blob/main/PlanoDeTeste%20_SiteQzando(estudos).xlsx)
 
 
 Caso tenha algum feedback fique à vontade para enviar e-mail para llorranyamorim@gmail.com ou entrar em contato via [Linkedin](https://www.linkedin.com/in/llorranyamorim/) 
